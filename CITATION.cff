@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite it as below."
+type: software
+title: "MalmstenIntegralSequences: A Wolfram Language package for Malmsten-type integral sequences and related nested-sum identities"
+authors:
+  - family-names: Abdulsalam
+    given-names: Abdulhafeez A.
+version: 1.0
+date-released: 2026-05-24
+license: MIT
+repository-code: "https://github.com/abdulhafeez1729/MalmstenIntegralSequences"
