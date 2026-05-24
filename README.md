@@ -59,7 +59,7 @@ A successful run should print a `PASS` message or show a test report with 100% s
 
 If you use this package, please cite:
 
-Abdulhafeez A. Abdulsalam *MalmstenIntegralSequences: A Wolfram Language package for Malmsten-type integral sequences*, version 1.0, 2026.
+Abdulhafeez A. Abdulsalam *MalmstenIntegralSequences: A Wolfram Language package for Malmsten-type integral sequences and related nested-sum identities*, version 1.0, 2026.
 
 A formal DOI citation will be added after archival release.
 
